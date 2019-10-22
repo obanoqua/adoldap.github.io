@@ -1,0 +1,52 @@
+  body
+{background:url("adoldap_logo.jpg");}
+ {padding: 50px 0;
+   min-width: 500px;} { padding-left: 15em;
+font-family: Georgia, "Times New Roman",
+          Times, serif;
+color: purple;
+    background-color: #d6ea5d }
+.floating {float: both}
+ ul.navbar {list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 10em }
+-o-border-radius: 24px;
+h1 {font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif}
+div {width: 15em;
+  height: 15em;
+  background-color: LightBlue;
+  float: left;}
+ ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {color: blue }
+  a:visited {color: purple }
+ address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+
+ul {
+   background: linear-gradient(90deg, 
+     rgba(255, 255, 255, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%, 
+     rgba(255, 255, 255, 0) 100%);
+   box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6);}
+ ul li {display: inline-block;}
+ ul li a {padding: 10px; 
+   color: #FFFFFF;
+   font-size: 18px;
+   font-family: Arial;
+   text-decoration: none;
+   display: block;}
